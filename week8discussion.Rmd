@@ -1,0 +1,19 @@
+---
+title: "Week 8 Discussion Questions"
+author: "Trevor Hewitt & M Zimbric"
+date: "October 29, 2015"
+output: pdf_document
+---
+
+##Trussell, G. C., Ewanchuk, P. J., & Bertness, M. D. 2002. Field evidence of trait-mediated indirect interactions in a rocky intertidal food web. *Ecology Letters* 5(2), 241–245
+
+##Schmitz, O. J., Krivan, V., & Ovadia, O. 2004. Trophic cascades: The primacy of trait-mediated indirect interactions. *Ecology Letters* 7(2), 153–163. 
+
+__Summary:__
+
+
+
+
+__Pre-Discussion Questions:__
+
+* 
