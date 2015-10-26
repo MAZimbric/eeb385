@@ -14,6 +14,8 @@ __Summary:__
 Trophic cascades are an important concept in ecology; however, many important assumptions associated with this concept have been shown to be an oversimplification. All predators and all prey species in a system do not function the same, and the interactions between predators and prey can change animal behaviors. Changes in behavior can cause complex food web interactions. These are called trait-mediated indirect interactions (TMII). Schmitz et al. review a number of different studies and develop a framework for predicting the relative importance of TMIIs and the classic density-mediated indirect interactions (DMII) based on the habitat preferences of predator and prey as well as general predator behavior. The authors argue that more research should be done to understand TMIIs and to develop a framework for predicting when TMIIs will likely be an important effect in a system.
 
 Trussell et al. performed at test of TMII in an intertidal ecosystem. The study system includes the predatory green crab (*Carcinus maenas*), its prey an herbivorous snail (*Littorina littorea*), and the fucoid algae the snail feeds on. Algae were allowed to grow on tile plots protected from snail grazing and then snails were introduced to feed on half the plots. Half of the plots were surrounded by caged green crabs. Plots with crabs and snails present exhibited similar fucoid densitiies as plots where snails were absent and the density of snails was significantly higher in plots without crabs. These results suggest that reduced grazing caused by predator cues contributes strongly to the positive correlation between crab and algae densities observed in previous studies. 
+
+
 __Pre-Discussion Questions:__
 
 * The relative strengths of density-mediated indirect interactions (DMII) and trait-mediated indirect interactions (TMII) on trophic cascade are often difficult to determine. Do you see this as problematic? How might researchers address this?
@@ -24,5 +26,5 @@ __Pre-Discussion Questions:__
 
 * What are the limitations of the experimental design in Trussell et al.?  Could it be adapted for your system of interest? 
 
-*Do the results showing lower snail density in crab plots contradict the authors' conclusions about trait mediation? Why or why not? 
+* Do the results showing lower snail density in crab plots contradict the authors' conclusions about trait mediation? Why or why not? 
 
