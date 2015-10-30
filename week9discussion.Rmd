@@ -1,0 +1,14 @@
+---
+title: 'EEB 485: Discussion 9'
+author: "Olivia Spagnuolo & M Zimbric"
+date: "October 30, 2015"
+output: pdf_document
+---
+
+##Hughes, T. P. (1994). Catastrophes, Phase Shifts and Large-Scale Degradation of a Caribbean Coral Reef. Science. 265 (5178), 1547-1551.
+
+##Scheffer, M., Carpenter, S. R., et al. (2012). Anticipating Critical Transitions. Science, 338 (6105), 344–348. 
+
+__Summary:__
+
+__Pre-discussion Questions:__
